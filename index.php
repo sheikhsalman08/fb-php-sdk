@@ -77,3 +77,4 @@
 
 $age = 19;
 
+echo $age;

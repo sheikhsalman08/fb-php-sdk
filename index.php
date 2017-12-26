@@ -75,7 +75,7 @@
 	}
 
 
-$age = 16;
+$age = 10;
 
 echo '<Br>';
 echo '<Br>';
